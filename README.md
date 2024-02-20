@@ -26,9 +26,7 @@ git clone https://github.com/your-username/FlaskSwaggerAPI.git
 4. Start the Flask application:
 `python app.py`
 5. Access the Swagger UI documentation at:
-```markdown
-http://localhost:8080/swagger
-```
+`http://localhost:8080/swagger`
 
 ## Usage
 Define your API endpoints in app.py.
