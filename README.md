@@ -17,7 +17,7 @@ This FlaskSwaggerAPI project provides a simple and efficient way to create and d
 ### Installation
 1. Clone the repository
 ```console
-git clone https://github.com/your-username/FlaskSwaggerAPI.git
+git clone git@github.com:Elikibs/FlaskSwaggerAPI-starter.git
 ```
 2. Navigate to the project directory:
 `cd FlaskSwaggerAPI-starter`
