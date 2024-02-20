@@ -37,5 +37,5 @@ Access the Swagger UI to interact with your API.
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Elikibs/FlaskSwaggerAPI-starter/blob/main/LICENSE) file for details.
 
