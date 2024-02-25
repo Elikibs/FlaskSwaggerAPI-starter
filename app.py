@@ -14,6 +14,7 @@ swagger_ui_blueprint = get_swaggerui_blueprint(
         'app_name': 'Access API'
     }
 )
+# register
 app.register_blueprint(swagger_ui_blueprint, url_prefix=SWAGGER_URL)
 
 @app.route("/")
